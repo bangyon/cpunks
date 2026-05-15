@@ -1,0 +1,13 @@
+{
+  "name": "cpunks-minter",
+  "version": "1.0.0",
+  "description": "CPUNKS auto-minter bot",
+  "main": "minter.js",
+  "scripts": {
+    "start": "node minter.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^6.13.0"
+  }
+}
